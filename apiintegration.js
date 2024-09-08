@@ -1,4 +1,3 @@
-
 function RandomDog(params) {
     fetch("https://dog.ceo/api/breeds/"
                         + "image/random")
